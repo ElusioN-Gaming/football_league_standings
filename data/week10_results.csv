@@ -1,0 +1,111 @@
+week,date,home_team,away_team,home_goals,away_goals
+1,1974-08-17,Sheffield United,QPR,1,1
+1,1974-08-17,Birmingham City,Middlesbrough,0,3
+1,1974-08-17,Everton,Derby County,0,0
+1,1974-08-17,Newcastle,Coventry City,3,2
+1,1974-08-17,Luton Town,Liverpool,1,2
+1,1974-08-17,Stoke City,Leeds United,3,0
+1,1974-08-17,Manchester City,West Ham,4,0
+1,1974-08-17,Leicester City,Arsenal,0,1
+1,1974-08-17,Chelsea,Carlisle United,0,2
+1,1974-08-17,Tottenham,Ipswich Town,0,1
+1,1974-08-17,Burnley,Wolves,1,2
+2,1974-08-19,West Ham,Luton Town,2,0
+2,1974-08-20,Everton,Stoke City,2,1
+2,1974-08-20,Birmingham City,Leicester City,3,4
+2,1974-08-20,Middlesbrough,Carlisle United,0,2
+2,1974-08-20,Arsenal,Ipswich Town,0,1
+2,1974-08-20,Wolves,Liverpool,0,0
+2,1974-08-21,Leeds United,QPR,0,1
+2,1974-08-21,Newcastle,Sheffield United,2,2
+2,1974-08-21,Chelsea,Burnley,3,3
+2,1974-08-21,Manchester City,Tottenham,1,0
+2,1974-08-21,Derby County,Coventry City,1,1
+3,1974-08-24,West Ham,Everton,2,3
+3,1974-08-24,Wolves,Newcastle,4,2
+3,1974-08-24,Liverpool,Leicester City,2,1
+3,1974-08-24,Leeds United,Birmingham City,1,0
+3,1974-08-24,Carlisle United,Tottenham,1,0
+3,1974-08-24,Middlesbrough,Luton Town,1,1
+3,1974-08-24,Ipswich Town,Burnley,2,0
+3,1974-08-24,Derby County,Sheffield United,2,0
+3,1974-08-24,Coventry City,Chelsea,1,3
+3,1974-08-24,QPR,Stoke City,0,1
+3,1974-08-24,Arsenal,Manchester City,4,0
+4,1974-08-27,Coventry City,Derby County,1,1
+4,1974-08-27,QPR,Leeds United,1,1
+4,1974-08-27,Liverpool,Wolves,2,0
+4,1974-08-27,Ipswich Town,Arsenal,3,0
+4,1974-08-27,Burnley,Chelsea,1,2
+4,1974-08-27,Carlisle United,Middlesbrough,0,1
+4,1974-08-27,Sheffield United,Newcastle,2,1
+4,1974-08-28,Tottenham,Manchester City,1,2
+4,1974-08-28,Luton Town,West Ham,0,0
+4,1974-08-28,Stoke City,Everton,1,1
+4,1974-08-28,Leicester City,Birmingham City,1,1
+5,1974-08-31,Leicester City,Carlisle United,1,1
+5,1974-08-31,Chelsea,Liverpool,0,3
+5,1974-08-31,Tottenham,Derby County,2,0
+5,1974-08-31,Newcastle,West Ham,2,0
+5,1974-08-31,Burnley,Coventry City,3,0
+5,1974-08-31,Everton,Arsenal,2,1
+5,1974-08-31,Luton Town,QPR,1,1
+5,1974-08-31,Birmingham City,Wolves,1,1
+5,1974-08-31,Sheffield United,Ipswich Town,3,1
+5,1974-08-31,Stoke City,Middlesbrough,1,1
+5,1974-08-31,Manchester City,Leeds United,2,1
+6,1974-09-07,Carlisle United,Stoke City,0,2
+6,1974-09-07,Wolves,Leicester City,1,1
+6,1974-09-07,Coventry City,Manchester City,2,2
+6,1974-09-07,Leeds United,Luton Town,1,1
+6,1974-09-07,QPR,Birmingham City,0,1
+6,1974-09-07,Arsenal,Burnley,0,1
+6,1974-09-07,Derby County,Newcastle,2,2
+6,1974-09-07,West Ham,Sheffield United,1,2
+6,1974-09-07,Ipswich Town,Everton,1,0
+6,1974-09-07,Liverpool,Tottenham,5,2
+6,1974-09-07,Middlesbrough,Chelsea,1,1
+7,1974-09-14,Birmingham City,Derby County,3,2
+7,1974-09-14,Newcastle,Carlisle United,1,0
+7,1974-09-14,Leicester City,QPR,3,1
+7,1974-09-14,Tottenham,West Ham,2,1
+7,1974-09-14,Manchester City,Liverpool,2,0
+7,1974-09-14,Burnley,Leeds United,2,1
+7,1974-09-14,Stoke City,Coventry City,2,0
+7,1974-09-14,Chelsea,Arsenal,0,0
+7,1974-09-14,Luton Town,Ipswich Town,1,4
+7,1974-09-14,Everton,Wolves,0,0
+7,1974-09-14,Sheffield United,Middlesbrough,1,0
+8,1974-09-21,Leeds United,Sheffield United,5,1
+8,1974-09-21,Coventry City,Everton,1,1
+8,1974-09-21,QPR,Newcastle,1,2
+8,1974-09-21,Ipswich Town,Chelsea,2,0
+8,1974-09-21,Wolves,Tottenham,2,3
+8,1974-09-21,Arsenal,Luton Town,2,2
+8,1974-09-21,West Ham,Leicester City,6,2
+8,1974-09-21,Carlisle United,Birmingham City,1,0
+8,1974-09-21,Middlesbrough,Manchester City,3,0
+8,1974-09-21,Derby County,Burnley,3,2
+8,1974-09-21,Liverpool,Stoke City,3,0
+9,1974-09-24,Coventry City,Luton Town,2,1
+9,1974-09-24,Carlisle United,Manchester City,0,0
+9,1974-09-24,Wolves,Sheffield United,1,1
+9,1974-09-24,Liverpool,Burnley,0,1
+9,1974-09-24,QPR,Everton,2,2
+9,1974-09-24,Ipswich Town,Stoke City,3,1
+9,1974-09-25,Derby County,Chelsea,4,1
+9,1974-09-25,West Ham,Birmingham City,3,0
+10,1974-09-28,Burnley,West Ham,3,5
+10,1974-09-28,Sheffield United,Liverpool,1,0
+10,1974-09-28,Tottenham,Middlesbrough,1,2
+10,1974-09-28,Stoke City,Derby County,1,1
+10,1974-09-28,Chelsea,Wolves,0,1
+10,1974-09-28,Birmingham City,Arsenal,3,1
+10,1974-09-28,Newcastle,Ipswich Town,1,0
+10,1974-09-28,Everton,Leeds United,3,2
+10,1974-09-28,Luton Town,Carlisle United,3,1
+10,1974-09-28,Leicester City,Coventry City,0,1
+10,1974-09-28,Manchester City,QPR,1,0
+9,1974-10-12,Middlesbrough,Leicester City,3,0
+9,1974-12-04,Leeds United,Tottenham,2,1
+9,1975-04-23,Newcastle,Arsenal,3,1
